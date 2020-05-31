@@ -1,5 +1,5 @@
 # Pythoner
-The snake game needs python 3 and upper versions
+//The snake game needs python 3 and upper versions
 Also install pygame module;
   Pygame Module Installation (With pip module):
   windows installation:
